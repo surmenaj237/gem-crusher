@@ -1,0 +1,21 @@
+{
+  "name": "Gem Crusher",
+  "short_name": "Gem Crusher",
+  "description": "Dokun, kır, derinlere in! Kristalleri parçala, gem topla, ekipman ve güçler aç. Bağımlılık yapan maden idle/clicker oyunu (9 dil).",
+  "lang": "tr",
+  "dir": "ltr",
+  "id": "gem-crusher",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#07060d",
+  "theme_color": "#07060d",
+  "orientation": "any",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
